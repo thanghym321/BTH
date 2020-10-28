@@ -24,7 +24,7 @@ namespace BTH1
         {
             Console.WriteLine("Toa do (x,y) = ({0},{1})", x, y);
         }
-        public double KhoangCach(Diem a,Diem b)
+        public double KhoangCach(Diem a, Diem b)
         {
             return Math.Sqrt(Math.Pow(a.x - b.x, 2) + Math.Pow(a.y - b.y, 2));
         }
@@ -39,7 +39,7 @@ namespace BTH1
             b.Nhap();
             a.HienThi();
             b.HienThi();
-            double kc =a.KhoangCach(a,b);
+            double kc = a.KhoangCach(a, b);
             Console.WriteLine("Khoang cach cua hai diem la: {0}", kc);
 
             Console.ReadKey();

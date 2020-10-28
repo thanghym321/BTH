@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace BTH1
+namespace Baithuchanhso1
 {
     class Employee
     {
@@ -65,4 +67,5 @@ namespace BTH1
             }
         }
     }
+
 }
