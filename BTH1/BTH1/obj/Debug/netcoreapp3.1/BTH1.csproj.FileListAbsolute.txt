@@ -1,0 +1,13 @@
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\obj\Debug\netcoreapp3.1\BTH1.csprojAssemblyReference.cache
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\obj\Debug\netcoreapp3.1\BTH1.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\obj\Debug\netcoreapp3.1\BTH1.AssemblyInfoInputs.cache
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\obj\Debug\netcoreapp3.1\BTH1.AssemblyInfo.cs
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\bin\Debug\netcoreapp3.1\BTH1.exe
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\bin\Debug\netcoreapp3.1\BTH1.deps.json
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\bin\Debug\netcoreapp3.1\BTH1.runtimeconfig.json
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\bin\Debug\netcoreapp3.1\BTH1.runtimeconfig.dev.json
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\bin\Debug\netcoreapp3.1\BTH1.dll
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\bin\Debug\netcoreapp3.1\BTH1.pdb
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\obj\Debug\netcoreapp3.1\BTH1.dll
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\obj\Debug\netcoreapp3.1\BTH1.pdb
+C:\Users\thang\OneDrive\Desktop\Học Tập\BTH\BTH1\BTH1\obj\Debug\netcoreapp3.1\BTH1.genruntimeconfig.cache
